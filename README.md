@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0125-valid-palindrome) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
