@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1929-concatenation-of-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
