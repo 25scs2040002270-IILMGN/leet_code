@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
+| [1310-xor-queries-of-a-subarray](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1310-xor-queries-of-a-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0338-counting-bits) |
+| [1310-xor-queries-of-a-subarray](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1310-xor-queries-of-a-subarray) |
 | [1734-decode-xored-permutation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1734-decode-xored-permutation) |
 ## Divide and Conquer
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0238-product-of-array-except-self) |
+| [1310-xor-queries-of-a-subarray](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
