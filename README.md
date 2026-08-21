@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1310-xor-queries-of-a-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1734-decode-xored-permutation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1734-decode-xored-permutation) |
 | [1929-concatenation-of-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1929-concatenation-of-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Simulation
 |  |
 | ------- |
