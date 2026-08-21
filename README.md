@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0680-valid-palindrome-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -166,8 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
