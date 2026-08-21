@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0406-queue-reconstruction-by-height) |
+| [0506-relative-ranks](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0973-k-closest-points-to-origin) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
