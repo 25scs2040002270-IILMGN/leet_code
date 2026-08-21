@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [1310-xor-queries-of-a-subarray](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1310-xor-queries-of-a-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1480-running-sum-of-1d-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
