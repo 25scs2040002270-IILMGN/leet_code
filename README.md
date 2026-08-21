@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
