@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
 | [0406-queue-reconstruction-by-height](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0406-queue-reconstruction-by-height) |
+| [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0912-sort-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -241,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
