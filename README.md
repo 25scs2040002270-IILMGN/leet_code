@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0973-k-closest-points-to-origin) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
