@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0406-queue-reconstruction-by-height) |
 | [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0506-relative-ranks) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0506-relative-ranks) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0876-middle-of-the-linked-list) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
