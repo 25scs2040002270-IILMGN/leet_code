@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0406-queue-reconstruction-by-height) |
 | [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0506-relative-ranks) |
+| [0641-design-circular-deque](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0912-sort-an-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0141-linked-list-cycle) |
+| [0641-design-circular-deque](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -263,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
