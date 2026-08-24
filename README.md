@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0451-sort-characters-by-frequency) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0973-k-closest-points-to-origin) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0680-valid-palindrome-ii) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
