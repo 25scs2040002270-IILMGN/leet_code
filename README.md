@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
