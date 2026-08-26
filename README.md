@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0641-design-circular-deque](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -296,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0128-longest-consecutive-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
