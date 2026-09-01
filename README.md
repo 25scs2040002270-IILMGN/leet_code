@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
