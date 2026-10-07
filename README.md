@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0406-queue-reconstruction-by-height) |
 | [0496-next-greater-element-i](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0338-counting-bits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1310-xor-queries-of-a-subarray) |
 | [1734-decode-xored-permutation](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1734-decode-xored-permutation) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0680-valid-palindrome-ii) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0875-koko-eating-bananas) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -318,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
