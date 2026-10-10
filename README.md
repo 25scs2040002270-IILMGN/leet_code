@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1089-duplicate-zeros](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1310-xor-queries-of-a-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/25scs2040002270-IILMGN/leet_code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
